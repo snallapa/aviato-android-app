@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Aviato</string>
+    <string name="main_where_are_you">Current Location:</string>
+    <string name="main_destination">Destination Location:</string>
+    <string name="main_date_time">Date and Time:</string>
+    <string name="set_date_time">Set Date</string>
+    <string name="search">Search</string>
+    <string name="name">Name: %s</string>
+    <string name="age">Age: %d</string>
+    <string name="choose_person_header">Who would you like to sit next to?</string>
+    <string name="choose_flight_header">Where would you like to go?</string>
+    <string name="destination">Destination: %s</string>
+    <string name="source">Source: %s</string>
+    <string name="price">$%s</string>
+    <string name="confirm_request">Confirm Booking</string>
+    <string name="confirm_request_message">Would you like to book a flight with this person?</string>
+    <string name="confirm_book">Book</string>
+    <string name="denied">Denied</string>
+    <string name="accepted">Accepted</string>
+    <string name="pending">Pending</string>
+    <string name="flight_information">%1$s - %2$s</string>
+    <string name="current_bookings">Current Notifications</string>
+    <string name="add_booking">New Booking</string>
+    <string name="which_side">Which side are you?</string>
+    <string name="which_side_desperate">Desperate</string>
+    <string name="which_side_attractive">Attractive</string>
+    <string name="which_side_message">Are you looking for a free ride, or willing to pay for one? Are you in need of a companion, or just want a nice vacation? Which side are you?</string>
+    <string name="bio">Bio:</string>
+    <string name="bio_hint">Name your hobbies and interests</string>
+    <string name="make_available">Make yourself Available</string>
+    <string name="nearest_airport">Nearest Airport:</string>
+    <string name="email">Email:</string>
+</resources>
